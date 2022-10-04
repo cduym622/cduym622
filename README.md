@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radleyy
 - 👀 I’m interested in videogame and software design
-- 🌱 I’m currently learning C++ and x86 Assembly
+- 🌱 I’m currently learning Java and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
