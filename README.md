@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @radleyy
+- 👋 Hi, I’m @cduym622
 - 👀 I’m interested in videogame and software design
 - 🌱 I’m currently learning Java and SQL
 - 💞️ I’m looking to collaborate on ...
