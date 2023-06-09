@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cduym622
-- 👀 I’m interested in videogame and software design
-- 🌱 I’m currently learning Java and SQL
+- 👀 I’m interested in software engineering and machine learning.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... chris.j.duym@gmail.com
 
 <!---
 radleyy/radleyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
