@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cduym622
 - 👀 I’m interested in software engineering and machine learning.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+
 
 <!---
 radleyy/radleyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
