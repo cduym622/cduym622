@@ -1,6 +1,6 @@
 # Hi, I'm Christopher Duym!
 
-M.S. in Computer Science — Rowan University
+M.S. in Computer Science — Rowan University '26
 
 I'm a Software Engineer interested in back-end development, with a particular focus on Python, Django, and databases. I enjoy building web applications and working with data-driven systems.
 
